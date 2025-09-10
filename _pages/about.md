@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+忽一提笔，不知从何说起，不妨谈谈为什么会建立这么一个网站吧。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+我呢，每到深夜便热衷于胡思乱想，脑海中往往有两个我在斗争。用弗洛伊德的理论来说，一个是本我，一个是自我，愈到安静的深夜，思想的碰撞愈剧烈。
+以往的我一直想制止这种现象，因为其时常导致我难以得到充分的休息。
+最近忽然意识到，堵不如疏，如果无法制止，不如顺其自然，把这些想法记录下来吧，也是方便自己回顾与梳理，也许哪天便可以整理为自己的人生哲学了。
