@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-关于成长的思考",
+        },{id: "post-关于成长的一些想法",
         
-          title: "关于成长的思考",
+          title: "关于成长的一些想法",
         
         description: "",
         section: "Posts",
