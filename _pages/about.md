@@ -39,5 +39,14 @@ latest_posts:
 
 2025.9.6
 
+<br>
+<br>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=80XHRR2GjN7QfdgD91sHVT6XrNeDgCDPv31jTTdDTyw&cl=ffffff&w=a"></script>
+<div style="text-align: center; margin: 20px 0;">
+  <div style="display: inline-block; width: 80%;">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=80XHRR2GjN7QfdgD91sHVT6XrNeDgCDPv31jTTdDTyw&cl=ffffff&w=a"></script>
+  </div>
+</div>
+
+<br>
+<br>
