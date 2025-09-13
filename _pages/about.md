@@ -38,3 +38,6 @@ latest_posts:
 或许，堵不如疏，如果无法制止，不如顺其自然，把这些想法记录下来吧，也是方便自己回顾与梳理，也许哪天便可以整理为自己的人生哲学了。
 
 2025.9.6
+
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=80XHRR2GjN7QfdgD91sHVT6XrNeDgCDPv31jTTdDTyw&cl=ffffff&w=a"></script>
